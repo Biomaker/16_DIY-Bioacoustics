@@ -12,7 +12,7 @@ Human interpretations of insects are subject to what (Whaley, 2006) calls the de
 
 What is apparent in the communicative behaviour of the leafhopper and its plants is a kind of “ecological exformation” from the perspective of human perception. This is to say that the acoustic interaction between the plant and the leafhopper is an unknown in the tuneable reality of the human ear. It is a communicative interaction which is crucial for the planet (for example: revealing crop health) yet it is only realised following Ossiannilsson’s research and through technological innovations such as amplifying equipment. New acoustic information is discovered or revealed as a result of treating the Cidacellidae’s communication channels as radically non human; as vital information transmitted through the vibration of plants. This exchange creates a micro interaction where a kind of bio-semantic meaning can be decoded through different technological tunings into reality. For example, through bio-acoustic information and sound. This information forms a point of communicative anastomosis between human, machine, plant and animal where bio-exformation turns into bio-information which can be decoded and utilised by the person, farmer, citizen, observer or scientist. It becomes vital information, shared between everything that attends to it. Our question is, then, how can this acoustic and neuromuscular information be organised and attended to by biologists, farmers, artists, designers or citizen scientists? How can sonic technology and machine learning aid this process? Our aim is to build the potential for a media ecological system surrounding the leafhopper through open source bioacoustics and machine learning. The outcome will be a DIY sensor/service for biologists, using sound recordings to identify and track different species of leafhoppers in order facilitate the translation and exchange of vital information. We hope that aspects of this media system can be used by farmers to monitor plant or animal health remotely, in visual art or computational design projects or by citizen scientists. A crucial part of the development of this media ecological system is prototyping the experience with members of the public as well as with lab scientists, artists, designers and farmers. 
 
-![Project Summary](16_DIY-Bioacoustics/ProjectSum.jpg)
+![Project Summary](https://github.com/BioMakers/16_DIY-Bioacoustics/blob/master/ProjectSum.jpg)
 
 ## Methodologies:
 
@@ -22,7 +22,8 @@ The project is being approached through an antidisciplinary design framework. Th
 
 Interdisciplinarity is vital to achieving breakthrough work across disciplines. Interdisciplinary work is when a group of people from different disciplines work together, while anti-disciplinary work is a process which temporarily or permanently suspends existing knowledge structures in order to facilitate the creation of something innovative and new. Anti-Disciplinarity is “about working in spaces that simply do not fit into any existing academic discipline” (Ito, 2016).
 
-![Framework](16_DIY-Bioacoustics/frame.jpg)
+![Framework](https://github.com/BioMakers/16_DIY-Bioacoustics/blob/master/frame.jpg)
+
 ## Bioacoustics:
 
 Bioacoustics, or acoustic ecology, is the mapping of biological ecosystems through sound. It presents the opportunity to listen to but also eavesdrop on nature and one of its central ideas is: 
