@@ -1,4 +1,4 @@
-# Eavesdropping on Nature: DIY Bioacoustics
+# _Eavesdropping on Nature: DIY Bioacoustics_
 
 Eavesdropping on Nature: DIY Bioacoustics is a project focussed on the fruitful entanglement of design, science, sound and the public sphere. Our goals are to advance both design and science by “thinking about the future of science in the context of design – as well as design in the context of science” (Ito, 2016) and to prototype the process in a way which is in accordance with open source and DIY methodologies. We are developing an open source and DIY sensor/service for biologists, using sound recordings to identify and track different species of leafhoppers through the different calls they make in order to monitor crop health. The sensor could also be utilised by citizen scientists, farmers and visual artists/computational designers.
 
@@ -46,26 +46,26 @@ By the measure that imitation is the most sincere form of flattery it's clear th
 
 ### Bibliography:
 
-Whaley, S. “Detecting Deception: A Bibliography of Counterdeception Across Time, "Cultures, and Discipline”. (2006).
+- Whaley, S. “Detecting Deception: A Bibliography of Counterdeception Across Time, "Cultures, and Discipline”. (2006).
 
-Chen, Yanping, et al. "Flying insect classification with inexpensive sensors." Journal of insect behavior 27.5 (2014): 657-677.
+- Chen, Yanping, et al. "Flying insect classification with inexpensive sensors." Journal of insect behavior 27.5 (2014): 657-677.
 
-Bardeli, Rolf, et al. "Detecting bird sounds in a complex acoustic environment and application to bioacoustic monitoring." Pattern Recognition Letters 31.12 (2010): 1524-1534.
+- Bardeli, Rolf, et al. "Detecting bird sounds in a complex acoustic environment and application to bioacoustic monitoring." Pattern Recognition Letters 31.12 (2010): 1524-1534.
 
-Ito, Joichi. (2016). Can design advance science, and can science advance design? url: https://www.pubpub.org/pub/designandscience
+- Ito, Joichi. (2016). Can design advance science, and can science advance design? url: https://www.pubpub.org/pub/designandscience
 
-Ossiannilsson, F. On sound-production and the sound-producing organ in Swedish Auchenorrhyncha (A preliminary note). Opusc. Entomol. (1946). 11:82-84.
+- Ossiannilsson, F. On sound-production and the sound-producing organ in Swedish Auchenorrhyncha (A preliminary note). Opusc. Entomol. (1946). 11:82-84.
 
-Ossiannilsson, F. Insect drummers. A study on the morphology and function of the sound-producing organ of Swedish Homoptera Auchenorrhyncha with notes on their sound-production. Opusc. (1949): Entomol. 11:82-84.
+- Ossiannilsson, F. Insect drummers. A study on the morphology and function of the sound-producing organ of Swedish Homoptera Auchenorrhyncha with notes on their sound-production. Opusc. (1949): Entomol. 11:82-84.
 
-Sattar, F, et al. "Identification of fish vocalizations from ocean acoustic data." Applied Acoustics 110 (2016): 248-255.
+- Sattar, F, et al. "Identification of fish vocalizations from ocean acoustic data." Applied Acoustics 110 (2016): 248-255.
 
-Silva, Diego F., et al. "Exploring low cost laser sensors to identify flying insect species." Journal of Intelligent & Robotic Systems 80 (2015): 313.
+- Silva, Diego F., et al. "Exploring low cost laser sensors to identify flying insect species." Journal of Intelligent & Robotic Systems 80 (2015): 313.
 
-Silva, Diego F., et al. "Applying machine learning and audio analysis techniques to insect recognition in intelligent traps." Machine Learning and Applications (ICMLA), 2013 12th International Conference on. Vol. 1. IEEE, 2013.
+- Silva, Diego F., et al. "Applying machine learning and audio analysis techniques to insect recognition in intelligent traps." Machine Learning and Applications (ICMLA), 2013 12th International Conference on. Vol. 1. IEEE, 2013.
 
-Zhao, Zhao, et al. "Automated bird acoustic event detection and robust species classification." Ecological Informatics 39 (2017): 99-108.
+- Zhao, Zhao, et al. "Automated bird acoustic event detection and robust species classification." Ecological Informatics 39 (2017): 99-108.
 
-Xie, Jie. "Multi-label classification of frog species via deep learning." PeerJ Preprints 5 (2017): e3007v1.
+- Xie, Jie. "Multi-label classification of frog species via deep learning." PeerJ Preprints 5 (2017): e3007v1.
 
-Global Market Insight "edible Insects Market Size, Share - Global Industry Report 2023." [online] Available at: https://www.gminsights.com/industry-analysis/edible-insects-market.
+- Global Market Insight "edible Insects Market Size, Share - Global Industry Report 2023." [online] Available at: https://www.gminsights.com/industry-analysis/edible-insects-market.
