@@ -1,0 +1,13 @@
+R1 - 5M
+R2 - 150k
+R3 - 100k
+R4, R5 - 1k
+R6 - 1M
+
+C1 - 10u
+
+U1 - TLC2902
+
+MISC:
+J1 - piezoelectric disc
+J2 - 3.5mm jack
