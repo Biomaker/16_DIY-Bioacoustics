@@ -9,5 +9,6 @@ C1 - 10u
 U1 - TLC2902
 
 MISC:
+T1 - 10M trimmer
 J1 - piezoelectric disc
 J2 - 3.5mm jack
