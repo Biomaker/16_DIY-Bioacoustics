@@ -64,8 +64,15 @@ Our question is, then, how can this acoustic and neuromuscular information be or
 
 # Hardware + Schematics: 
 
+Setup: 
 ![setup](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/setup.jpg)
+
+Breadboard: 
+
 ![breadboard](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/breadboard.jpg)
+
+Sensor PCB: 
+
 ![sensor_pcb](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/sensor_pcb.jpg)
 
 BOM: 
@@ -85,8 +92,6 @@ T1 - 10M trimmer
 J1 - piezoelectric disc
 J2 - 3.5mm jack
 
-
-# Code and Software:
 
 # License: 
 
